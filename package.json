@@ -1,0 +1,29 @@
+{
+    "name": "squeleto_demo2",
+    "version": "1.0.0",
+    "description": "my new game project",
+    "main": "index.js",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite",
+        "preview": "vite preview"
+    },
+    "keywords": [],
+    "author": "Mookie",
+    "license": "ISC",
+    "dependencies": {
+        "@peasy-lib/peasy-assets": "latest",
+        "@peasy-lib/peasy-engine": "latest",
+        "@peasy-lib/peasy-input": "latest",
+        "@peasy-lib/peasy-states": "latest",
+        "@peasy-lib/peasy-ui": "latest",
+        "howler": "latest",
+        "pako": "^2.1.0",
+        "uuid": "latest"
+    },
+    "devDependencies": {
+        "json": "latest",
+        "typescript": "latest",
+        "vite": "latest"
+    }
+}
